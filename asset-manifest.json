@@ -1,21 +1,15 @@
 {
   "files": {
     "main.css": "/Hertl/static/css/main.bc9603aa.css",
-    "main.js": "/Hertl/static/js/main.0d55ec21.js",
-    "static/js/251.124d7ea0.chunk.js": "/Hertl/static/js/251.124d7ea0.chunk.js",
-    "static/js/52.ad7e09b0.chunk.js": "/Hertl/static/js/52.ad7e09b0.chunk.js",
-    "static/js/703.a62719a4.chunk.js": "/Hertl/static/js/703.a62719a4.chunk.js",
+    "main.js": "/Hertl/static/js/main.d8b468a4.js",
     "static/js/787.85ed7ac4.chunk.js": "/Hertl/static/js/787.85ed7ac4.chunk.js",
     "index.html": "/Hertl/index.html",
     "main.bc9603aa.css.map": "/Hertl/static/css/main.bc9603aa.css.map",
-    "main.0d55ec21.js.map": "/Hertl/static/js/main.0d55ec21.js.map",
-    "251.124d7ea0.chunk.js.map": "/Hertl/static/js/251.124d7ea0.chunk.js.map",
-    "52.ad7e09b0.chunk.js.map": "/Hertl/static/js/52.ad7e09b0.chunk.js.map",
-    "703.a62719a4.chunk.js.map": "/Hertl/static/js/703.a62719a4.chunk.js.map",
+    "main.d8b468a4.js.map": "/Hertl/static/js/main.d8b468a4.js.map",
     "787.85ed7ac4.chunk.js.map": "/Hertl/static/js/787.85ed7ac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc9603aa.css",
-    "static/js/main.0d55ec21.js"
+    "static/js/main.d8b468a4.js"
   ]
 }
