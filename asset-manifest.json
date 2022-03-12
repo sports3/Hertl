@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Hertl/static/css/main.ad4784ca.css",
-    "main.js": "/Hertl/static/js/main.8cf5f460.js",
+    "main.js": "/Hertl/static/js/main.81b439bb.js",
     "static/js/787.85ed7ac4.chunk.js": "/Hertl/static/js/787.85ed7ac4.chunk.js",
     "index.html": "/Hertl/index.html",
     "main.ad4784ca.css.map": "/Hertl/static/css/main.ad4784ca.css.map",
-    "main.8cf5f460.js.map": "/Hertl/static/js/main.8cf5f460.js.map",
+    "main.81b439bb.js.map": "/Hertl/static/js/main.81b439bb.js.map",
     "787.85ed7ac4.chunk.js.map": "/Hertl/static/js/787.85ed7ac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad4784ca.css",
-    "static/js/main.8cf5f460.js"
+    "static/js/main.81b439bb.js"
   ]
 }
